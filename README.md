@@ -52,7 +52,7 @@ football_analysis/
 
 ### Setup
 ```bash
-git clone https://github.com/<your-username>/football_analytica.git
+git clone https://github.com/<your-username>/Football-Analytica.git
 cd football_analysis
 
 python -m venv .venv
