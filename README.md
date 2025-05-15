@@ -18,7 +18,7 @@ A computer vision pipeline for automated football match analysis.
 - Custom model training capabilities
 
 ## Output
-![Output](football_analysis/output_videos/screenshot.png)
+![Output](screenshot.png)
 
 ## Architecture
 
