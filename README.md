@@ -22,7 +22,7 @@ A computer vision pipeline for automated football match analysis.
 
 ## Architecture
 
-![Architecture Diagram](football_analysis/Architecture-Diagram.png)
+![Architecture Diagram](Architecture-Diagram.png)
 
 ## Project Structure
 
