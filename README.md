@@ -52,8 +52,8 @@ football_analysis/
 
 ### Setup
 ```bash
-git clone https://github.com/<your-username>/football_analysis.git
-cd football_analysis
+git clone https://github.com/<your-username>/Football-Analytica.git
+cd Football-Analytica
 
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
